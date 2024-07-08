@@ -1,0 +1,8 @@
+-->input 1 array 
+--->input target value
+--->return the  that is equal to the pair of two  value==target
+
+1 2 3 4 3 5
+target=4
+loof 1---n
+loof 1---n
